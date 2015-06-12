@@ -14,48 +14,94 @@ All those thoughts :O
 --> Dorfbewohner:
 -----------------------------------------------
 	- Einzige normale Einheit die "entsteht"
+	
 	- Schwache Universaleinheit
+	
 	- Wird ausgebildet zu anderen Einheiten
+	
 	- Kampf:
 		. Passiv / Agressiv
 		. Holzknüppel / Schleuder
-	-
+		
+	- Aktionen - Tier 1:
+		. Nahrung sammeln (Nüsse, Beeren, etc)
+		. Tiere jagen
+			* Häuten -> Felle
+			* Tiere ausnehmen -> Fleisch
+		. Holz fällen
+		. Geringe Lasten tragen
+		. ERRICHTET: BAUERNHAUS, SAMMELPLATZ, HOLZFÄLLERHÜTTE, TEMPEL, ALTAR, AUSSICHTSTURM 								( ALLES HOLZ )
+		
+	- Aktionen - Tier 2:
+		. Farming (Animals, Plants)
+		. Tiere jagen *Häuten -> (Felle & Häute)
+		. Leichte Lasten tragen
+		. Mining Stone
+		. ERRICHTET: +BÜRGERHAUS, +FELD, +KASERNE, +MAUER, +MANUFAKTUR, +HAFEN, +STEINBRUCH									( STEIN MÖGLICH, STEIN UPGRADE MÖGLICH)
+		
+	- Aktionen - Tier 3:
+		. Mining Ores
+		. Sacrificing / Worshipping ( 50% of Priest-Efficiency)
+		. Mittlere Lasten tragen
+		. ERRICHTET: +REFINERY, +FABRIK, +WEAPONSMITH, +ARMORSMITH, +KRISTALLZUCHT, ZIRKEL
 
+		
+----------------------------------------------
+--> Handkarren
+----------------------------------------------
+	- Muss bemannt werden von ein oder zwei Dorbewohnern
+	
+	- Hohe Lasten transportierbar / Hohe Mengen an kleineren Lasten transportierbar
+	
+	- 50% ( 20%) langsamer als ein Dorbewohner
+		
 ----------------------------------------------
 --> Soldat:
 ----------------------------------------------
 	- Erweitertes Waffenarsenal: (Muss ausgerüstet werden?)
 		. Bogen
-		. Schwert
-		. Schild
+		. Schwert (& Schild)
 		. Kriegshammer (Zweihändig. Mehr Schaden, langsamer, weniger Schutz)
+		
 	- Erweitertes Verhalten:
 		. Passiv / Agressiv
 		. Bewachen / Angreifen
 		. Kombinieren zu: Vertreiben, Verfolgen, Verteidigen, Verstecken
+		
 	- Manöver:
-		. Schildwall
-		. Zange
-		. Pfeilhagel
-		. ???
-	-
+		. Dichte Formation 	( Verhindert das ungehinderte Durchlaufen von Einheiten )
+		. offene Formation 	( lässt Einheiten passieren [gut für aggressive taktiken und neuformierungen])
+		. Schildwall				( besserer Widerstand gegen Ansturm und gewaltsames durchdringen einer Formation)
+		. Zange					( Öffnung in der Mitte mit nach innen laufendem Keil)
+		. Pfeilhagel				( Anhaltender unpräziser Arealbeschuss, mindestens 10 Schützen für effektiven Beschuss)
+	
 	
 ---------------------------------------------
 --> Priester (flash)
 ---------------------------------------------
-	- Heilung / Bekehrung / ...(?)/ Manageneration vlt? An Altar?
-	- Macht wenig bis jetzt. Wie findet die Bekehrung statt?
-	- 1 zu 1 von Pop übernehmen? ändern vor- vs nachteile?
-	- balance?
+
+	- Generiert Mana an Altar ( Worshipping)		(Tier 1)
+	
+	- Heilt einheiten										(Tier 2)
+	
+	- Highpriest: (Predigt/ Sacrificing) 				( Tier 3)
+	
+	- Upgrade Priest of Light: Bekehrung, 10% höherer MovesSpeed / Upgrade Shadowpriest: Brainwash (20 Seconds, instant), 10% MS
+	
+	- Upgrade Priest of Wind: 35% höherer Movespeed, 20% stronger Healing
 	
 	
 ---------------------------------------------
 --> SCHAMANE
 ---------------------------------------------
 	- Nutzt Manapool
+	
 	- HAUPTFIGUR des Spiels (König und Dame in einem -> High risk, reward space)
+	
 	- Kann SEELE des Gegnerschamanen fangen um Spiel zu GEWINNEN
+	
 	- Kann für Mana erstellt werden sobald ALTAR errichtet wurde
+	
 	- Wenn tot und Seele nicht gefangen, automatischer RESPAWN nach Zeit (Reise der Seele)
 	- Hat ZAUBERSET das dynamisch aus Situationsvariablen erstellt und erweitert wird
 		. Startbiome
@@ -64,15 +110,30 @@ All those thoughts :O
 	- 4 Slots für Zaubertotems die Sofort gewirkt werden können ohne Mana
 	
 	
-	
 --------------------------------------------
 --> Schiffe
 --------------------------------------------
+
 	- Transportieren Einheiten
+	
 	- Dorfbewohner können fischen
+	
 	- Soldaten können mit Bögen schießen oder Schilder verwenden
+	
 	- Priester beschleunigen Schiffe (stackt vlt 3 mal?)
+	
 	- Schamane kann normal Zauber wirken, kein Zirkel möglich
+	
+
+--------------------------------------------
+--> Luftschiffe
+--------------------------------------------
+	
+	- Transportiert Einheiten (Weniger als Schiffe)
+	
+	- Alles mich reichweite erlaubt
+	
+	- Tiefflug: Dorfbewohner können fischen (vollkommen überflüssig, aber ich bin cool *arbeitarbeit*)
 	
 	
 	
@@ -187,16 +248,28 @@ All those thoughts :O
 	- Große Familie aber mäßige Platz-/ Bewohner-Ratio (PB-R)wegen Feldern
 	
 --------------------------------------------
+--> Feld
+--------------------------------------------
+	- Ein Bewohner pro Feld
+	- Erneuerung kostet einen geringen Satz Nahrung
+	
+--------------------------------------------
 --> Bürgerhaus
 --------------------------------------------
 	- mittelgroßes Haus
 	- gutes PB-R
 	
 --------------------------------------------
---> Schmiede
+--> Waffenschmiede
 --------------------------------------------
-	- Alle Upgrades 
+	- Waffenupgrades
 	- Schlechtes PB-R
+	
+	--------------------------------------------
+--> Rüstungsschmiede
+--------------------------------------------
+	- Rüstungsupgrades
+	- Braucht 2 Dorfebewohner zum laufen
 	
 --------------------------------------------
 --> Kaserne
