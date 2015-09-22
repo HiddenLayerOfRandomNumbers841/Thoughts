@@ -149,7 +149,1031 @@ ModelImporter:
     animationScaleError: .5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Running
+      takeName: Running
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Running.002
+      takeName: Running.002
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Running.003
+      takeName: Running.003
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walking
+      takeName: Walking
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Crouch
+      takeName: Armature|Crouch
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|LinearMove
+      takeName: Armature|LinearMove
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Running
+      takeName: Armature|Running
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Armature|Walking
+      takeName: Armature|Walking
+      firstFrame: 0
+      lastFrame: 18
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Arm-IK.L
+        weight: 0
+      - path: Armature/Arm-IK.L/Arm-IK.L_end
+        weight: 0
+      - path: Armature/Arm-IK.R
+        weight: 0
+      - path: Armature/Arm-IK.R/Arm-IK.R_end
+        weight: 0
+      - path: Armature/Elbow.L
+        weight: 0
+      - path: Armature/Elbow.L/Elbow.L_end
+        weight: 0
+      - path: Armature/Elbow.R
+        weight: 0
+      - path: Armature/Elbow.R/Elbow.R_end
+        weight: 0
+      - path: Armature/Foot-IK.L
+        weight: 0
+      - path: Armature/Foot-IK.L/Foot-IK.L_end
+        weight: 0
+      - path: Armature/Foot-IK.R
+        weight: 0
+      - path: Armature/Foot-IK.R/Foot-IK.R_end
+        weight: 0
+      - path: Armature/Knee.L
+        weight: 0
+      - path: Armature/Knee.L/Knee.L_end
+        weight: 0
+      - path: Armature/Knee.R
+        weight: 0
+      - path: Armature/Knee.R/Knee.R_end
+        weight: 0
+      - path: Armature/LowerSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/HeadControl/HeadControl_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.L/UpperArm.L/LowerArm.L/Hand.L/Hand.L_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/Shoulder.R/UpperArm.R/LowerArm.R/Hand.R/Hand.R_end
+        weight: 0
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head
+        weight: 1
+      - path: Armature/LowerSpine/MiddleSpine/UpperSpine/Neck/Head/Head_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.L/LowerLeg.L/Foot.L/Toes.L/Toes.L_end
+        weight: 0
+      - path: Armature/LowerSpine/UpperLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R
+        weight: 1
+      - path: Armature/LowerSpine/UpperLeg.R/LowerLeg.R/Foot.R/Toes.R/Toes.R_end
+        weight: 0
+      - path: Cube.002
+        weight: 0
+      - path: Cube.002/Cube.003
+        weight: 0
+      - path: Cube.005
+        weight: 0
+      - path: Cube.005/Cube.006
+        weight: 0
+      - path: Fuuss.L.001
+        weight: 0
+      maskType: 0
+      maskSource: {instanceID: 0}
     isReadable: 1
   meshes:
     lODScreenPercentages: []
@@ -171,7 +1195,7 @@ ModelImporter:
   tangentSpace:
     normalSmoothAngle: 60
     splitTangentsAcrossUV: 1
-    normalImportMode: 0
+    normalImportMode: 1
     tangentImportMode: 1
   importAnimation: 1
   copyAvatar: 0
@@ -601,10 +1625,8 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-    hasTranslationDoF: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 3
-  humanoidOversampling: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
