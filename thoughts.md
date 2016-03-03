@@ -1,14 +1,11 @@
 # Thoughts
 All those thoughts :O
 
+-----------------------------------------------
 ## UNITS 
 
-
-
-
------------------------------------------------
 ### Dorfbewohner:
------------------------------------------------
+
 	- Einzige normale Einheit die "entsteht"
 	
 	- Schwache Universaleinheit
