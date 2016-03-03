@@ -155,10 +155,12 @@ All those thoughts :O
 
 
 ### Biomzauber (zusätzlicher Bonusschaden bei zusätzlicher Wirkzeit)
+	* TODO: add more combo effects
 
 - Spell: Firebolt			(Fire-Attack)
 	- Description: Targets a small sized area to do average amount of fire damage and and apply burn effect for a short duration
-		- Strategie: This spell is designed to help focus important targets and to ignite burnable material from a fairly far distance which makes this often the all time favourite for strategic wizzards.
+		- Strategie: This spell is designed to help focus important targets, stop small harrassin attacks and to ignite burnable material from a distance.
+		- Comment: Being affordable and 
 	- Element: Fire
 	- Type: Ranged
 		- Type: Ballistic
@@ -205,21 +207,41 @@ All those thoughts :O
 			- Amount: High
 	- Effect2: Damage Aura
 		- Amount: Weak
-- Area:
+
+- Spell: Conflagration			(Fire-AoE)
+	- Description: Focuses a large are to either set it on fire if dry otherwise bring down a drought that dries out food, plants and swamps alike. Expensive Channel. Best done by a group of mages. If channeled long enough the dried area will be set on fire (Drought->Conflagration)
 
 	
-- Wasser:
-	- Attack:
-	- Buff:
-	- Area:
-- Luft:
-	- Attack:
-	- Buff:
-	- Area:
-- Erde:
-	- Attack:
-	- Buff:
-	- Area:
+- Water-Beam				(Water-Attack)
+	- Description: Focuses a point/direction in which a strong beam average in diameter, average in range is fired, which pushes units hit around and slows or stuns(pushed2theGround) them. Does not do a lot of damage but can signifcantly slow down the enemy makeing them favourable targets by other ranged attacks like archer attacks. Makes enemies wet
+
+- Water-Armor				(Water-Armor)
+	- Description: Shields units with a fast circulating water bubble which deflects most physical attacks back at the enemy and renders the target immune to fire- and air-attacks. Each attack against the shield lowers its effectiveness until it breaks or it expires. when the unit attacks, the water shield disperses in a violent explosion, pushing light and medium armored enemies back. Water-Armor also allows to pass over swamps without sinking into it.
+	
+- Flood					(Water-Aoe)
+	- Description: Saturates an area with water making a dry area rank and incombustible and making a normaly watered area to a swamp, slowing down light and medium units and making heavy units get stuck. if a heavy unit is stuck too long in a swamp it drowns.
+
+
+- Gust 					(Air-Attack)
+	- Description: makes light units fly, medium units be pushed away and fall and stops heavy units on the spot
+		If the enemy is wet he gets frozen which additionaly applies a weak damage buff as long as he keeps it
+
+- Taming the Winds			(Air-Armor)
+	- Description: Float and Invisibility
+	- Area: Creates a violent storm, which can be slowly moved by casters as long as in range, can have sekundary effect depenend on the state of the floor
+
+- Tornado				(Air-AoE)
+	- Description: Creates a tornado, size depends on "efford", can be controlled slowly, lingers
+
+
+- Attack: Boulder			(Earth-Attack)
+	- Description: Lifts a bould out of the ground leaving an unpassable hole and throwing the rock at a target location squashing present units on the spot. more expensive than the other basic attacks and less combinable
+
+- Stone-Skin				(Earth-Armor)
+	- Description: The classic. Creates a protective layer around you, changing your armor type to heavy. cheaper than the other buffs
+	
+- Earthquake				(Earth-Aoe)
+	- Tears the earth apart making it impossible to move swiftly on it (except if you don't #floating) making exceptional damage to buildings and leaving a boulder field behind making a followup tornado even more dangerous. While being strong to be effective against buildings it needs a strong caster crew, before that good at slowing things down and making swamps into inflamable deathtraps
 	
 	
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
@@ -364,7 +386,7 @@ All those thoughts :O
 		
 		
 --------------------------------------------
---> Schere, Stein, Papier
+--> Schere, Stein, Papier		ääh, schwach!
 --------------------------------------------
 	- Bogenschütze schlägt Kriegshammerträger
 	- Schwert und Schild schlagen Bogen
