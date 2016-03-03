@@ -1,13 +1,13 @@
 # Thoughts
 All those thoughts :O
 
-### UNITS ###
+## UNITS 
 
 
 
 
 -----------------------------------------------
---> Dorfbewohner:
+### Dorfbewohner:
 -----------------------------------------------
 	- Einzige normale Einheit die "entsteht"
 	
