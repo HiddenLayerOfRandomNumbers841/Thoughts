@@ -1,223 +1,225 @@
 # Thoughts
 All those thoughts :O
 
------------------------------------------------
 ## UNITS 
 
-### Dorfbewohner:
+### Dorfbewohner
 
-	- Einzige normale Einheit die "entsteht"
+- Einzige normale Einheit die "entsteht"
 	
-	- Schwache Universaleinheit
+- Schwache Universaleinheit
 	
-	- Wird ausgebildet zu anderen Einheiten
+- Wird ausgebildet zu anderen Einheiten
 	
-	- Kampf:
-		. Passiv / Agressiv
-		. Holzknüppel / Schleuder
-		
-	- Aktionen - Tier 1:
-		. Nahrung sammeln (Nüsse, Beeren, etc)
-		. Tiere jagen
-			* Häuten -> Felle
-			* Tiere ausnehmen -> Fleisch
-		. Holz fällen
-		. Geringe Lasten tragen
-		. ERRICHTET: BAUERNHAUS, SAMMELPLATZ, HOLZFÄLLERHÜTTE, TEMPEL, ALTAR, AUSSICHTSTURM 								( ALLES HOLZ )
-		
-	- Aktionen - Tier 2:
-		. Farming (Animals, Plants)
-		. Tiere jagen *Häuten -> (Felle & Häute)
-		. Leichte Lasten tragen
-		. Mining Stone
-		. ERRICHTET: +BÜRGERHAUS, +FELD, +KASERNE, +MAUER, +MANUFAKTUR, +HAFEN, +STEINBRUCH									( STEIN MÖGLICH, STEIN UPGRADE MÖGLICH)
-		
-	- Aktionen - Tier 3:
-		. Mining Ores
-		. Sacrificing / Worshipping ( 50% of Priest-Efficiency)
-		. Mittlere Lasten tragen
-		. ERRICHTET: +REFINERY, +FABRIK, +WEAPONSMITH, +ARMORSMITH, +KRISTALLZUCHT, ZIRKEL
+- Kampf
+	- Passiv / Agressiv
+	- Holzknüppel / Schleuder
+	
+- Aktionen - Tier 1:
+	- Nahrung sammeln (Nüsse, Beeren, etc)
+	- Tiere jagen
+		- Häuten -> Felle
+		- Tiere ausnehmen -> Fleisch
+	- Holz fällen
+	- Geringe Lasten tragen
+	- ERRICHTET (ALLES HOLZ): BAUERNHAUS, SAMMELPLATZ, HOLZFÄLLERHÜTTE, TEMPEL, ALTAR, AUSSICHTSTURM 
+	
+- Aktionen - Tier 2:
+	- Farming (Animals, Plants)
+	- Tiere jagen *Häuten -> (Felle & Häute)
+	- Leichte Lasten tragen
+	- Mining Stone
+	- ERRICHTET: +BÜRGERHAUS, +FELD, +KASERNE, +MAUER, +MANUFAKTUR, +HAFEN, +STEINBRUCH									( STEIN MÖGLICH, STEIN UPGRADE MÖGLICH)
 
-		
-----------------------------------------------
---> Handkarren
-----------------------------------------------
-	- Muss bemannt werden von ein oder zwei Dorbewohnern
-	
-	- Hohe Lasten transportierbar / Hohe Mengen an kleineren Lasten transportierbar
-	
-	- 50% ( 20%) langsamer als ein Dorbewohner
-		
-----------------------------------------------
---> Soldat:
-----------------------------------------------
-	- Erweitertes Waffenarsenal: (Muss ausgerüstet werden?)
-		. Bogen
-		. Schwert (& Schild)
-		. Kriegshammer (Zweihändig. Mehr Schaden, langsamer, weniger Schutz)
-		
-	- Erweitertes Verhalten:
-		. Passiv / Agressiv
-		. Bewachen / Angreifen
-		. Kombinieren zu: Vertreiben, Verfolgen, Verteidigen, Verstecken
-		
-	- Manöver:
-		. Dichte Formation 	( Verhindert das ungehinderte Durchlaufen von Einheiten )
-		. offene Formation 	( lässt Einheiten passieren [gut für aggressive taktiken und neuformierungen])
-		. Schildwall				( besserer Widerstand gegen Ansturm und gewaltsames durchdringen einer Formation)
-		. Zange					( Öffnung in der Mitte mit nach innen laufendem Keil)
-		. Pfeilhagel				( Anhaltender unpräziser Arealbeschuss, mindestens 10 Schützen für effektiven Beschuss)
-	
-	
----------------------------------------------
---> Priester (flash)
----------------------------------------------
+- Aktionen - Tier 3:
+	- Mining Ores
+	- Sacrificing / Worshipping ( 50% of Priest-Efficiency)
+	- Mittlere Lasten tragen
+	- ERRICHTET: +REFINERY, +FABRIK, +WEAPONSMITH, +ARMORSMITH, +KRISTALLZUCHT, ZIRKEL
 
-	- Generiert Mana an Altar ( Worshipping)		(Tier 1)
+### Handkarren
+- Muss bemannt werden von ein oder zwei Dorbewohnern
 	
-	- Heilt einheiten										(Tier 2)
+- Hohe Lasten transportierbar / Hohe Mengen an kleineren Lasten transportierbar
 	
-	- Highpriest: (Predigt/ Sacrificing) 				( Tier 3)
-	
-	- Upgrade Priest of Light: Bekehrung, 10% höherer MovesSpeed / Upgrade Shadowpriest: Brainwash (20 Seconds, instant), 10% MS
-	
-	- Upgrade Priest of Wind: 35% höherer Movespeed, 20% stronger Healing
-	
-	
----------------------------------------------
---> SCHAMANE
----------------------------------------------
-	- Nutzt Manapool
-	
-	- HAUPTFIGUR des Spiels (König und Dame in einem -> High risk, reward space)
-	
-	- Kann SEELE des Gegnerschamanen fangen um Spiel zu GEWINNEN
-	
-	- Kann für Mana erstellt werden sobald ALTAR errichtet wurde
-	
-	- Wenn tot und Seele nicht gefangen, automatischer RESPAWN nach Zeit (Reise der Seele)
-	- Hat ZAUBERSET das dynamisch aus Situationsvariablen erstellt und erweitert wird
-		. Startbiome
-		. Steinkreise in Extrembiomen
-		. Kann bis zu 8 Zaubern halten: 3 Standard-, 4 Biom-, 1 Megabiomzauber
-	- 4 Slots für Zaubertotems die Sofort gewirkt werden können ohne Mana
-	
-	
---------------------------------------------
---> Schiffe
---------------------------------------------
+- 50% ( 20%) langsamer als ein Dorbewohner
+		
 
-	- Transportieren Einheiten
+### Soldat:
+
+- Erweitertes Waffenarsenal: (Muss ausgerüstet werden?)
+	- Bogen
+	- Schwert (& Schild)
+	- Kriegshammer (Zweihändig. Mehr Schaden, langsamer, weniger Schutz)
+		
+- Erweitertes Verhalten:
+	- Passiv / Agressiv
+	- Bewachen / Angreifen
+	- Kombinieren zu: Vertreiben, Verfolgen, Verteidigen, Verstecken
+		
+- Manöver:
+	- Dichte Formation 	( Verhindert das ungehinderte Durchlaufen von Einheiten )
+	- offene Formation 	( lässt Einheiten passieren [gut für aggressive taktiken und neuformierungen])
+	-Schildwall				( besserer Widerstand gegen Ansturm und gewaltsames durchdringen einer Formation)
+	- Zange					( Öffnung in der Mitte mit nach innen laufendem Keil)
+	- Pfeilhagel				( Anhaltender unpräziser Arealbeschuss, mindestens 10 Schützen für effektiven Beschuss)
 	
-	- Dorfbewohner können fischen
 	
-	- Soldaten können mit Bögen schießen oder Schilder verwenden
+### Priester (flash)
+
+- Generiert Mana an Altar ( Worshipping)		(Tier 1)
 	
-	- Priester beschleunigen Schiffe (stackt vlt 3 mal?)
+- Heilt einheiten										(Tier 2)
 	
-	- Schamane kann normal Zauber wirken, kein Zirkel möglich
+- Highpriest: (Predigt/ Sacrificing) 				( Tier 3)
+	
+- Upgrade Priest of Light: Bekehrung, 10% höherer MovesSpeed / Upgrade Shadowpriest: Brainwash (20 Seconds, instant), 10% MS
+	
+- Upgrade Priest of Wind: 35% höherer Movespeed, 20% stronger Healing
+	
 	
 
---------------------------------------------
---> Luftschiffe
---------------------------------------------
-	
-	- Transportiert Einheiten (Weniger als Schiffe)
-	
-	- Alles mich reichweite erlaubt
-	
-	- Tiefflug: Dorfbewohner können fischen (vollkommen überflüssig, aber ich bin cool *arbeitarbeit*)
-	
-	
-	
-///////////////////////////////////////////////////////////////////////////////////////////
-		### ZAUBER UND ZAUBERFORSCHUNG ###
-///////////////////////////////////////////////////////////////////////////////////////////
+### SCHAMANE
 
--> (Konrad): Schlage starke Interkation mit Umgebung vor.
-		Beispiel: Zaubere Wasser-Flächenzauber auf Erde: Sumpf
-					Zaubere Erd-Flächenzauber auf Erde: Steinspitzen schießen aus dem Boden
-					Zaubere Wasser-Flächenzauber auf Wasser: Friert fläche ein
-							-> Units die durch seichtes wasser waten sitzen kurzzeitig fest
-							-> wasser überquerbar (kein richtungswechsel auf der fläche möglich)
+- Nutzt Manapool
+	
+- HAUPTFIGUR des Spiels (König und Dame in einem -> High risk, reward space)
+	
+- Kann SEELE des Gegnerschamanen fangen um Spiel zu GEWINNEN
+	
+- Kann für Mana erstellt werden sobald ALTAR errichtet wurde
+	
+- Wenn tot und Seele nicht gefangen, automatischer RESPAWN nach Zeit (Reise der Seele)
+- Hat ZAUBERSET das dynamisch aus Situationsvariablen erstellt und erweitert wird
+	- Startbiome
+	- Steinkreise in Extrembiomen
+	- Kann bis zu 8 Zaubern halten: 3 Standard-, 4 Biom-, 1 Megabiomzauber
+- 4 Slots für Zaubertotems die Sofort gewirkt werden können ohne Mana
+	
+	
+### Schiffe
+
+- Transportieren Einheiten
+	
+- Dorfbewohner können fischen
+	
+- Soldaten können mit Bögen schießen oder Schilder verwenden
+	
+- Priester beschleunigen Schiffe (stackt vlt 3 mal?)
+	
+- Schamane kann normal Zauber wirken, kein Zirkel möglich
+	
+
+
+### Luftschiffe
+
+	
+- Transportiert Einheiten (Weniger als Schiffe)
+	
+- Alles mich reichweite erlaubt
+	
+- Tiefflug: Dorfbewohner können fischen (vollkommen überflüssig, aber ich bin cool *arbeitarbeit*)
+	
+	
+	
+
+## ZAUBER UND ZAUBERFORSCHUNG
+
+- (Konrad): Schlage starke Interkation mit Umgebung vor.
+	- Beispiele
+		- Zaubere Wasser-Flächenzauber auf Erde: Sumpf
+		- Zaubere Erd-Flächenzauber auf Erde: Steinspitzen schießen aus dem Boden
+		- Zaubere Wasser-Flächenzauber auf Wasser: Friert fläche ein
+			- Units die durch seichtes wasser waten sitzen kurzzeitig fest
+			- wasser überquerbar (kein richtungswechsel auf der fläche möglich)
 		etc etc
 		
 		... oder auch nicht. schwer zu sagen
 		Noch viel Quatschen notwendig
 		
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
-										  Zauber
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+### Standardzauber (stetiger Schaden mit fester Wirkzeit)
+
+- Forcefield
+	- Channelt eine kurze Zeit um darauf ALLE Einheiten in einem kleinen Feld in eine bestimmbare Richtung zu schubsen.
+	- Geringer Aufprallschaden
+	- Geringer Initialschaden gegen Gegner
+		
+- Manabolt
+	- Purer ineffizienter Schadenszauber auf eine einzelne Einheit
+	- Schamane hat zusätzliche Resistenz gegen diesen Zauber
+		
+- Schildzauber
+	- Schützt Schamanen mit ineffizientem Schild für eine sehr kurze Zeit
+	- 50% physische Schadensreduktion
 
 
----------------------------------------------
---> Standardzauber	( stetiger SChaden mit fester Wirkzeit)
----------------------------------------------
+### Biomzauber (zusätzlicher Bonusschaden bei zusätzlicher Wirkzeit)
 
-	- Forcefield
-		. Channelt eine kurze Zeit um darauf ALLE Einheiten in einem kleinen Feld in eine
-			bestimmbare Richtung zu schubsen.
-		. Geringer Aufprallschaden
-		. Geringer Initialschaden gegen Gegner
-		
-	- Manabolt
-		. Purer ineffizienter Schadenszauber auf eine einzelne Einheit
-		. Schamane hat zusätzliche Resistenz gegen diesen Zauber
-		
-	- Schildzauber
-		. Schützt Schamanen mit ineffizientem Schild für eine sehr kurze Zeit
-		. 50% physische Schadensreduktion
+- Spell: Firebolt			(Fire-Attack)
+	- Description: Targets a small sized area to do average amount of fire damage and and apply burn effect for a short duration
+		- Strategie: This spell is designed to help focus important targets and to ignite burnable material from a fairly far distance which makes this often the all time favourite for strategic wizzards.
+	- Element: Fire
+	- Type: Ranged
+		- Type: Ballistic
+		- Range: Average - High
+		- Speed: Average
+		- Target: Position
+	- CastSpeed: Fast-Average
+	- Effect:
+		- Trigger: Impact
+		- Type: Damage
+		- ValueType: Amount
+		- Amount: Low-Average
+		- Size: Small
+		- Target: Area
+		- Effect:
+			- Trigger: Parent
+			- Type: Damage
+			- ValueType: Amount
+			- Amount: Average
+			- Target: Select
+				- Condition: First
+					- Condition: SortByDistance
+						- Param: Center
+							- From: Parent
+								- Select: Target
+		- Effect: (De-)Buff
+			- Type: Damage
+			- ValueType: Amount
+			- Amount: Low-Average
+			- Duration: Short
 
-		
-		
+- Spell: Inner Fire			(Fire-Buff)
+	- Element: Fire
+	- Type: Buff
+	- ValueType: Percentage
+	- Amount: Weak-Average
+	- Duration: Short-Average
+	- Effect1: Buff
+		- Type: Attack Damage
+		- ValueType: Amount
+		- Amount: High
+		- Duration: 1 Attack
+		- Effect1: AoE
+			- Amount: High
+	- Effect2: Damage Aura
+		- Amount: Weak
+- Area:
 
---------------------------------------------
---> Biomzauber (zusätzlicher Bonusschaden bei zusätzlicher Wirkzeit)
---------------------------------------------
-
-	- Angriff: Feuer(-ball) 						oder 		- Buff: Feuer
-		. Mitteleffizienter Schadenszauber						. Mitteleffizienter Schadensbuff
-		. Branntschaden für sehr kurze Zeit						. Erster Angriff verheerender Flächensch.
-		. Regenerationsnegation für kurze Zeit					. Danach kurze Zeit noch schwacher Buff
-		. Schwaches Area of Effect (AOE)							. nahestehende Gegner langsamere Regeneration
-		
-	- Fläche: Feuer 
-		. ???
-		
-	- Angriff: Wasser(-Strahl)						oder 		- Buff: Wasser
-		. Mitteleffizienter Schadenszauber						. Erhöht Schaden auf nächste angegrf Einh. sign.
-		. Sehrkurze Wirkzeit, dann:								. Verlangsamt getroffene Einheit
-		. Wasserstrahl, mit mittlerem Schaden					. Folgeangriffe von jedem auf die Einheit
-		. Verlansamt Einheiten etwas, steigt mit Zeit					steigern den Verlangsamungseffekt
-		. maximalreichweite Mittel
-		. Schamane muss stehen
-		. mittellange Nachwirkung
-		
-	- Fläche: Wasser
-		. ???
-		
-	- Angriff: Luft(-Strahl)						oder 		- Buff: Luft
-		. Mitteleffizienter Utilityzauber						. Erhöht Beweguns- und Angriffsgeschw.
-		. Hindert Einheiten am Vorankommen						und Schaden signifikant bis zum ersten Schlag
-		. Wird mit der Zeit stärker								. danach für kurze Zeit erhöhter MS
-		. nur kurze Nachwirkung
-		. geringer Schaden
 	
-	- Fläche: Luft
-		. ???
-		
-	- Angriff: Erde(Felskugel)						oder 		- Buff: Erde
-		. Mitteleffizienter Utilityzauber						. Rüstung der Einheit bis zum ersten Schlag
-		. Räumt alles aus dem Weg										signifikant erhöht
-		. Direkt Hit -> hoher Schaden								. Erster Angriff weiträumiger Flächenangriff
-		. Alle am Rand werden weggeschläudert					. danach nichts
-	
-	- Fläche: Erde
-		. ???
-		
-		
-	
+- Wasser:
+	- Attack:
+	- Buff:
+	- Area:
+- Luft:
+	- Attack:
+	- Buff:
+	- Area:
+- Erde:
+	- Attack:
+	- Buff:
+	- Area:
 	
 	
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
