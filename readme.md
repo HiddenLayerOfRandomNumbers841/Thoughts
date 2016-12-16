@@ -48,9 +48,9 @@ All those thoughts :O
 ### Soldat:
 
 - Erweitertes Waffenarsenal: (Muss ausgerüstet werden?)
-	- Bogen
-	- Schwert (& Schild)
-	- Kriegshammer (Zweihändig. Mehr Schaden, langsamer, weniger Schutz)
+	- Bogen, Stoffrüstung (mittel)
+	- Schwert & Schild, Eisenrüstung (schwer)
+	- Kriegshammer (Zweihändig) -> Mehr Schaden, keine dedizierte Rüstung ("leicht")
 		
 - Erweitertes Verhalten:
 	- Passiv / Agressiv
